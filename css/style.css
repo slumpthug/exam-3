@@ -1,0 +1,11 @@
+body {
+    background-color: #272A2F;
+}
+
+/*========HEADER========*/
+.header {
+    padding: 12px 0;
+    display: flex;
+    justify-content: center;
+    background-color: #19849B;
+}
